@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studious-octo-broccoli.iml" filepath="$PROJECT_DIR$/.idea/modules/studious-octo-broccoli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studious-octo-broccoli_main.iml" filepath="$PROJECT_DIR$/.idea/modules/studious-octo-broccoli_main.iml" group="studious-octo-broccoli" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/studious-octo-broccoli_test.iml" filepath="$PROJECT_DIR$/.idea/modules/studious-octo-broccoli_test.iml" group="studious-octo-broccoli" />
+    </modules>
+  </component>
+</project>
