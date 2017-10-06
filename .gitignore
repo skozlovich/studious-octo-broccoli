@@ -3,3 +3,4 @@ gradle/gradlew
 gradle/gradlew.bat
 target
 *.iml
+.idea/
